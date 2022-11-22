@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "SingleEventLiveData"
-include ':app'
+include ':sample'
 include ':singleeventlivedata'

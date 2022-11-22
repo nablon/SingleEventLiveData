@@ -42,7 +42,7 @@ afterEvaluate {
 
                 groupId = 'me.nablon.singleeventlivedata'
                 artifactId = 'singleevent-livedata'
-                version = '0.0.1'
+                version = '0.0.2'
             }
         }
     }
